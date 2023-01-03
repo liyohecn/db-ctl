@@ -1,0 +1,11 @@
+datasource:
+  source:
+    driver: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://192.168.102.8:3306/kld-cloud?useUnicode=true&characterEncoding=utf8
+    username: shlongtian
+    password: Longtian@123
+  target:
+    driver: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://192.168.102.8:3306/kld-ginlong?useUnicode=true&characterEncoding=utf8
+    username: shlongtian
+    password: Longtian@123
